@@ -5,7 +5,7 @@ CJ ?
 FD ?
 IF ?
 JT ?
-JX ?
+JX - This introduction is great.
 KC ?
 MH ?
 MK Hej!
