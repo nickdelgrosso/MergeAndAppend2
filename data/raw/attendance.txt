@@ -1,16 +1,16 @@
 ALi ?
-ALu ?
+ALu: yes
 BT ?
 CJ ?
 FD ?
-IF ?
 JT I'm here!
+IF hello!
 JX ?
 KC ?
 MH ?
 MK ?
-MS ?
-MR ?
+MS done
+MR Yes
 ND ?
 RM ?
 RS ?
