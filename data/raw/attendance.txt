@@ -1,19 +1,20 @@
 ALi ?
-ALu ?
+ALu: yes
 BT ?
-CJ ?
+CJ This is Robin, I, actually, have dyslexia 
 FD ?
-IF ?
-JT ?
+JT I'm here!
+IF hello!
 JX ?
-KC ?
+MG is here
+KC I'm here :) w/o proxy issues
 MH ?
 MK ?
-MS ?
-MR ?
+MS done
+MR Yes
 ND ?
 RM here!
-RS ?
+RS here!
 SD ?
 SH ?
 TY ?
