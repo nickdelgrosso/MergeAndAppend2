@@ -1,7 +1,7 @@
 ALi ?
 ALu: yes
 BT ?
-CJ ?
+CJ This is Robin, I, actually, have dyslexia 
 FD ?
 JT I'm here!
 IF hello!
