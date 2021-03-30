@@ -5,10 +5,10 @@ CJ ?
 FD ?
 IF ?
 JT ?
-JX ?
+JX - This introduction is great.
 KC ?
 MH ?
-MK ?? Are you here Marius?? - RM
+MK Hej!
 MS ?
 MR ?
 ND I'm here!!!
@@ -16,6 +16,6 @@ RM Y'ello!
 RS ?
 SD ?
 SH ?
-TY ?
+TY I am also here.
 VC ?
 VM ?
