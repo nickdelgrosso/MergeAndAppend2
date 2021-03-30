@@ -6,7 +6,7 @@ FD ?
 IF ?
 JT ?
 JX ?
-KC ?
+KC I'm here :) w/o proxy issues (https://internet.ge.com/developer/)
 MH ?
 MK ?
 MS ?
