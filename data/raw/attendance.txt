@@ -6,7 +6,7 @@ FD ?
 JT I'm here!
 IF hello!
 JX ?
-KC ?
+KC I'm here :) w/o proxy issues
 MH ?
 MK ?
 MS done
