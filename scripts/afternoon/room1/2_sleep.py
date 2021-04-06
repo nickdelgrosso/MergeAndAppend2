@@ -10,10 +10,13 @@ What's the average ESE of your group?
 """
 
 # Raw Data:
-sleep_per_night = []  # e.g. [6.5, 9.2, 8, ...]
+sleep_per_night = [9, 8, 6.5, 9]  # e.g. [6.5, 9.2, 8, ...]
 
 # Script (fill in here):
+ese_years = []
+for hours in sleep_per_night:
+    ese = hours*81*365/(24*365)
+    ese_years.append(ese)
 
-    
 # Output:
-# print(ese_years)
+print(ese_years)
