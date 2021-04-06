@@ -45,6 +45,7 @@ Having similar vocabulary helps improve communication.  Especially confusing som
 |  x = {}  | "make an empty dict/dictionary |
 | x = {"nick": False, "doug": True} |  "Make a dict with names as *keys* and attendance as boolean *values*"  |
 |  x["nick"]  | "get the nick item from the x dict"  |
+| x[2] = "hi" | "set the third item in x to hi"  |
 |   mean(data=x)  | "call the mean function on x" |
 
 
