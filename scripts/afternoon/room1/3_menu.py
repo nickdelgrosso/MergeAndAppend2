@@ -33,12 +33,15 @@ order_counts = {"salami": 2, "vegetarian": 1, "diablo": 0}
 
 # Raw Data: 
 menu = ["margherita", "salami", "vegetarian", "hawaiian"]
-orders = []  # One item for each pizza 
+orders = ["margherita", "margherita", "vegetarian", "salami", "vegetarian", "salami", "salami"]  # One item for each pizza
 
 # Script (fill in here):
+order_counts = {}
+for item in menu:
+    item_count = orders.count(item)
+    order_counts[item] = item_count
 
-    
 # Output:
-# print(order_counts)
+print(order_counts)
 
 
