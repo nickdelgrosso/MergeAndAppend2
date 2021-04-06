@@ -24,18 +24,74 @@ Having similar vocabulary helps improve communication.  Especially confusing som
 | \[  \]          | "Square Brackets" |
 | \{  \}          | "Curly Braces"   |
 |  \.             | "Dot" |
+| \:              |  "Colon"  |
+|  \;             |  "Semicolon"  |
+|  \=          |   "an equals sign"      |
+|  \=\=        |   "is equal"          |
+| \'    |  "single quote" or "apostrophe"  |
+| \`  | "back tick"  |
+| \"    |   "double quote" or "quotation mark"   |
+| \\  |  "back slash"  |
+|  \/  | "forward slash"  |
+
 
 ### "Level 2":  Combinations of characters
 
 | **Symbol** | **Spoken Name** |
 | ---------- | -------- |
+|  x = 3  |  "assign 3 to x"  |
+|  x = [] |  "make x an empty list"  |
+  |  x[2]   |  "get item", "get the third item from x", "get the element from x with the index two" |
+|  x = {}  | "make an empty dict/dictionary |
+| x = {"nick": False, "doug": True} |  "Make a dict with names as *keys* and attendance as boolean *values*"  |
+|  x["nick"]  | "get the nick item from the x dict"  |
+|   mean(data=x)  | "call the mean function on x" |
 
 
+
+### "Level 3":  Blocks of code
+
+"If x is greater than 4, set y to 3.  Else set y to 10."
+```python
+if x > 4:
+    y = 3
+else:
+    y = 10
+````
+
+"print the value of x as long as x is less than 5"
+```python
+while x < 5:
+  print(x)
+```
+
+"for each name in the list of names, print the length of the name"
+```python
+names = ["alice", "bob", "charlie"]
+
+for i in range(len(names)):
+  name = names[i] 
+  print(len(name))
+```
+
+```python
+names = ["alice", "bob", "charlie"]
+for name in names:
+  print(len(name))
+```
+
+```python
+names = ["alice", "bob", "charlie"]
+ages = [4, 5, 6]
+
+for name, age in zip(names, ages):
+  print(len(name))
+```
 
 ## The "Loop-Append" Pattern
 
 ```python
-names = ["alice", "bob", "charlie"]
+names = ["alice", "bob", "charlie"]  # List of Strings
 
 big_names = []
 for name in names:
