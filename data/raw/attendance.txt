@@ -19,4 +19,4 @@ SD ?
 SH ?
 VC yes
 TY I am also here.
-VM ?
+VM nopea
