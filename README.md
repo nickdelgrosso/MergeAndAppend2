@@ -35,6 +35,7 @@ Having similar vocabulary helps improve communication.  Especially confusing som
 |  \/  | "forward slash"  |
 
 
+
 ### "Level 2":  Combinations of characters
 
 | **Symbol** | **Spoken Name** |
@@ -47,6 +48,7 @@ Having similar vocabulary helps improve communication.  Especially confusing som
 |  x["nick"]  | "get the nick item from the x dict"  |
 | x[2] = "hi" | "set the third item in x to hi"  |
 |   mean(data=x)  | "call the mean function on x" |
+|  \"\"\"   |  "docstring" |
 
 
 
