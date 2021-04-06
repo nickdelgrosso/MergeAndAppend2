@@ -5,18 +5,18 @@ CJ This is Robin, I, actually, have dyslexia
 FD ?
 JT I'm here!
 IF hello!
-JX ?
+JX - This introduction is great.
 MG is here
 KC I'm here :) w/o proxy issues
 MH ?
-MK ?
+MK Hej!
 MS done
 MR Yes
-ND ?
-RM here!
+ND I'm here!!!
+RM Y'ello!
 RS here!
 SD ?
 SH ?
-TY ?
-VC ?
+VC yes
+TY I am also here.
 VM ?

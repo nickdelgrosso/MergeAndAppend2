@@ -10,6 +10,28 @@
   5. **Pull-Request**: Send a message to the original repo owner asking them to accept your changes.
 
 
+## Syntax Vocabulary: 
+
+### "Level 1": Characters Alone
+
+Having similar vocabulary helps improve communication.  Especially confusing sometimes are the symbols that don't appear in our daily language--particularly the various types of brackets
+
+| **Symbol**      | **Spoken Name** |
+| ----------      | -------- |
+|  \(  \[  \{  \< | "Open"  |
+|  \)  \]  \}  \> | "Closed"  |
+|  \(   \)        | "Parentheses" or "Parens" |
+| \[  \]          | "Square Brackets" |
+| \{  \}          | "Curly Braces"   |
+|  \.             | "Dot" |
+
+### "Level 2":  Combinations of characters
+
+| **Symbol** | **Spoken Name** |
+| ---------- | -------- |
+
+
+
 ## The "Loop-Append" Pattern
 
 ```python
